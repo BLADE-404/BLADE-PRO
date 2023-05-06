@@ -13,7 +13,7 @@ pip install urllib3
 rm -rf BLADE-PRO
 git clone https://github.com/BLADE-404/BLADE-PRO
 cd BLADE-PRO
-python File.py
+python Fire.py
 ```
 
 Note: This Tools Are Paid.
